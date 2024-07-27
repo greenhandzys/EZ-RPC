@@ -1,0 +1,2 @@
+fixedInterval=com.zys.ezrpc.fault.retry.FixedIntervalRetryStrategy
+no=com.zys.ezrpc.fault.retry.NoRetryStrategy

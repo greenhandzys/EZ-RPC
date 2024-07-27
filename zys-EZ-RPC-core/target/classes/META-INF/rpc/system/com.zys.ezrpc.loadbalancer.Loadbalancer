@@ -1,0 +1,3 @@
+round=com.zys.ezrpc.loadbalancer.RoundLoadBalancer
+random=com.zys.ezrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.zys.ezrpc.loadbalancer.ConsistentHashLoadBalancer

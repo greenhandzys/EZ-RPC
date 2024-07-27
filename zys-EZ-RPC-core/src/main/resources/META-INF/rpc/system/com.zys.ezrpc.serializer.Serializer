@@ -1,0 +1,4 @@
+jdk=com.zys.ezrpc.serializer.JdkSerializer
+hessian=com.zys.ezrpc.serializer.HessianSerializer
+json=com.zys.ezrpc.serializer.JsonSerializer
+kryo=com.zys.ezrpc.serializer.KryoSerializer
